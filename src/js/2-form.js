@@ -51,6 +51,6 @@ function onSubmit(event) {
   iziToast.success({
     position: 'topRight',
     message: 'Data sent!',
-    timeout: 5000,
+    timeout: 2500,
   });
 }
